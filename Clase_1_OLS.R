@@ -39,6 +39,8 @@ library(gridExtra)
 
 # Cargar Base de Datos--------------------------------------------------
 
+# Base de Datos Wooldridge
+
 data <- wage1
 names(data)
 
